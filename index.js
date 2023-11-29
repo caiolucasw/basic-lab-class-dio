@@ -33,5 +33,5 @@ class Hero {
   }
 }
 
-(new Hero('hero 1', 24, 'mago')).atacar();
+new Hero('hero 1', 24, 'mago').atacar();
 new Hero('hero 2', 74, 'monge').atacar();
